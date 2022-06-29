@@ -8,7 +8,7 @@ Solutions for hackerrank challenges
 
 ## Testing
 
-To run all the tests use the following command:
+To run all tests use the following command:
 
 ```shell
 npm test
