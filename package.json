@@ -1,0 +1,31 @@
+{
+  "name": "hackerrank",
+  "description": "Solutions for hackerrank challenges",
+  "private": "true",
+  "scripts": {
+    "test": "jest",
+    "fix": "ts-standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azuwey/hackerrank.git"
+  },
+  "author": "David Zarandi (Azuwey)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/azuwey/hackerrank/issues"
+  },
+  "homepage": "https://github.com/azuwey/hackerrank#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^28.1.3",
+    "babel-jest": "^28.1.2",
+    "jest": "^28.1.2",
+    "ts-standard": "^11.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
