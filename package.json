@@ -4,7 +4,8 @@
   "private": "true",
   "scripts": {
     "test": "jest",
-    "fix": "ts-standard --fix"
+    "lint:fix": "ts-standard --fix",
+    "lint": "ts-standard"
   },
   "repository": {
     "type": "git",
