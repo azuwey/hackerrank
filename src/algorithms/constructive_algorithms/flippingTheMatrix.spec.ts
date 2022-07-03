@@ -5,7 +5,7 @@ describe('Flipping the Matrix', () => {
       [112, 42, 83, 119], [56, 125, 56, 49], [15, 78, 101, 43], [62, 98, 114, 108]
     ] and returns the number 414`, () => {
     expect(flippingTheMatrix([
-        [112, 42, 83, 119], [56, 125, 56, 49], [15, 78, 101, 43], [62, 98, 114, 108]
+      [112, 42, 83, 119], [56, 125, 56, 49], [15, 78, 101, 43], [62, 98, 114, 108]
     ])).toStrictEqual(414)
   })
 
@@ -18,6 +18,6 @@ describe('Flipping the Matrix', () => {
   })
 
   test('Calculates the maximum possible upper-left quadrant from [[1, 2], [3,4]] and returns the number 4', () => {
-    expect(flippingTheMatrix([[1, 2], [3,4]])).toStrictEqual(4)
+    expect(flippingTheMatrix([[1, 2], [3, 4]])).toStrictEqual(4)
   })
 })
