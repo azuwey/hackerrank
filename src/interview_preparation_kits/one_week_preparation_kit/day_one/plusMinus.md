@@ -22,3 +22,8 @@ There are `5` elements, two positive, two negative and one zero. Their ratios ar
 ['0.400000', '0.400000', '0.200000']
 ```
 
+## Constraints
+
+- `0 < number of elements <= 100`
+- `-100 <= arr[i] <= 100`
+

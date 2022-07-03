@@ -11,3 +11,7 @@ in `24-hour` format (`hh:mm:ss`).
 timeConversion('12:01:00PM') // '12:01:00'
 timeConversion('12:01:00AM') // '00:01:00'
 ```
+
+## Constraints
+
+- All input times are valid
